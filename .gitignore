@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder metadata files
+Icon?
+Thumbs.db
+
 # C extensions
 *.so
 
