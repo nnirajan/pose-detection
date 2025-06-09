@@ -1,11 +1,11 @@
-# 🏋️‍♂️ Human Pose Detection for Exercise Monitoring in Nepal Using Machine Learning (MediaPipe)
+# 🏋️‍♂️ Human Pose Detection for Exercise Monitoring Using Machine Learning (MediaPipe)
 
-This repository contains the implementation of my Master's Thesis Project: **Human Pose Detection for Exercise Monitoring in Nepal Using Machine Learning (MediaPipe)**.
+This repository contains the implementation of my Master's Thesis Project: **Human Pose Detection for Exercise Monitoring Using Machine Learning (MediaPipe)**.
 
 
 ## 🧠 Project Overview
 
-This project explores how MediaPipe-based human pose detection can be used to support home fitness and physical well-being, particularly in Nepal where access to personal trainers and professional gym guidance may be limited.
+This project explores how MediaPipe-based human pose detection can be used to support home fitness and physical well-being, where access to personal trainers and professional gym guidance may be limited.
 
 The system captures real-time human pose through webcam input, analyzes body landmarks (keypoints), calculates joint angles (like the elbow), counts exercise repetitions, and provides on-screen feedback about posture correctness.
 
